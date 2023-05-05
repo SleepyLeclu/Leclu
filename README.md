@@ -15,7 +15,5 @@ Leclu.langs = { //newbie, still learning\
   "css"
 ];
 
-Leclu.handheld = [ "Steam Deck" ];
-
 Leclu.traits = [ "just a littel boy" ];
 ```
