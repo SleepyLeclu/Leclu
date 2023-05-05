@@ -9,7 +9,7 @@ Leclu.social = { //dumb fuckery
   steam: "https://steamcommunity.com/id/Leclu/"
 };
 
-Leclu.langs = { //newbie, still learning\
+Leclu.langs = { //newbie, still learning
   "js",
   "html",
   "css"
