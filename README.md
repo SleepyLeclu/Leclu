@@ -5,7 +5,7 @@ const Leclu = new Dumbass();
 Leclu.social = { //dumb fuckery
   twitter: "https://twitter.com/lecluu",
   discord: "Leclu#1000",
-  github: this,
+  github: "this",
   steam: "https://steamcommunity.com/id/Leclu/"
 };
 
